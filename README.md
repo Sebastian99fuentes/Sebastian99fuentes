@@ -10,7 +10,8 @@
 
 - 👨‍💻 I'm a Computer Systems Engineer focused on building scalable and maintainable solutions.
 - 🧪 I'm currently working with:  
-  `C#` · `.NET` · `SQL` · `React` · `TypeScript` · `Azure DevOps` · `SonarQube`
+  `C#` · `.NET` · `SQL` · `React` · `TypeScript` · `Azure DevOps` ·
+
 - 🧰 I’ve developed APIs, mobile apps, and Azure DevOps extensions.
 - 🛠️ I enjoy solving problems, automating processes, and learning about AI and Machine Learning.
 
