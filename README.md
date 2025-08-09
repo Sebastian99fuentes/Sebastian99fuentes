@@ -54,7 +54,7 @@
 
 - ✉️ Email: ssfuentes.99@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/sebastián-fuentes](https://www.linkedin.com/in/sebastian-fuentes/)  
-- 🌐 Portfolio: *Coming soon...*
+- 🌐 Portfolio: https://about-me-sigma-rust.vercel.app/
 
 ---
 
